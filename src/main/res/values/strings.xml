@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PunchMe</string>
+
+    <string-array name="DisMen">
+        <item>Pick Display</item>
+        <item>1. Number of hits</item>
+        <item>2. Strongest hit</item>
+        <item>3. Last hit</item>
+    </string-array>
+
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+</resources>
